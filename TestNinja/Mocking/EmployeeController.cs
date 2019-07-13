@@ -25,7 +25,7 @@ namespace TestNinja.FundamentalsInterfaces
         }
     }
 
-    public class ActionResult { }
+    //public class ActionResult { }
  
     public class RedirectResult : ActionResult { }
     

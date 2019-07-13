@@ -54,7 +54,7 @@
     <Compile Include="Fundamentals\EmailSender.cs" />
     <Compile Include="Fundamentals\ErrorLogger.cs" />
     <Compile Include="Fundamentals\FizzBuzz.cs" />
-    <Compile Include="Fundamentals\HousekeeperHelper.cs" />
+    <Compile Include="Fundamentals\HousekeeperService.cs" />
     <Compile Include="Fundamentals\HtmlFormatter.cs" />
     <Compile Include="Fundamentals\FundamentalsInterfaces\IStatementGenerator.cs" />
     <Compile Include="Fundamentals\FundamentalsInterfaces\IEmailSender.cs" />
