@@ -5,7 +5,7 @@ using System.IO;
 using System.Linq;
 using Newtonsoft.Json;
 
-namespace TestNinja.Mocking
+namespace TestNinja.FundamentalsInterfaces
 {
     public class VideoService
     {

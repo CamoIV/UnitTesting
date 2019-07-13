@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace TestNinja.Fundamentals
+namespace TestNinja.FundamentalsInterfaces
 {
     public class Math
     {

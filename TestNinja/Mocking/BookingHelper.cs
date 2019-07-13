@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using TestNinja.FundamentalsInterfaces;
 
-namespace TestNinja.Mocking
+namespace TestNinja.FundamentalsInterfaces
 {
     public static class BookingHelper
     {
@@ -29,7 +30,7 @@ namespace TestNinja.Mocking
         }
     }
 
-    public class UnitOfWork
+    public class UnitOfWork : IUnitOfWork
     {
         public IQueryable<T> Query<T>()
         {

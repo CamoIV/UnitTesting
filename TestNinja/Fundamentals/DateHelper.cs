@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TestNinja.Fundamentals
+namespace TestNinja.FundamentalsInterfaces
 {
     public class DateHelper
     {
